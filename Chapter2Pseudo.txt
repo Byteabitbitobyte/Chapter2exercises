@@ -1,0 +1,16 @@
+Write the pseudocode to find the average of three different fixed numbers 10-100-1000 and print the results.
+
+Fixed1(10)+fixed2(100)+fixed3(1000)=1110/3 = 370
+
+Assume you take three different exams during the term. Write the pseudocode solution that prompts you to enter the score for each of your three different exams, calculates the sum and average of your exam scores, and prints the final total and average to the screen.
+
+int exam 1, exam 2, exam 3, total, sum;
+  cin >> exam 1 >> exam 2 >> exam 3;
+
+    total = (exam 1) + (exam 2) + (exam 3);
+
+    sum = total / 3
+
+cout << sum;
+
+   
